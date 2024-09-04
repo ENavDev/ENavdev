@@ -32,7 +32,6 @@
 
 ###
 
-<h3 align="center">Social media</h3>
 
 ###
 
